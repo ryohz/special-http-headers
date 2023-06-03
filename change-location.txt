@@ -11,5 +11,9 @@ Client-IP
 X-Client-IP
 X-Host
 True-Client-IP
-Cluster-Client-IP
-X-ProxyUser-Ip
+X-Cluster-Client-Ip
+X-Forwarded-Server
+X-Forwarded-Proto
+X-Forwarded-Port
+Via
+X-Real-IP
